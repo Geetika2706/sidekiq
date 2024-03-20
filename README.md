@@ -8,6 +8,7 @@ Sidekiq
 [![Gitter Chat](https://badges.gitter.im/mperham/sidekiq.svg)](https://gitter.im/mperham/sidekiq)
 
 
+
 Simple, efficient background processing for Ruby.
 
 Sidekiq uses threads to handle many jobs at the same time in the
